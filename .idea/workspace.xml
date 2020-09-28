@@ -16,9 +16,70 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d940accd-48a6-4402-9c36-d836369f46ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/js/1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/BG2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/about/about-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/about/chef1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/about/chef2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/about/chef3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/about/chef4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/about/chef5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/about/cooker1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/anhsp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/bg-customer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/bgmenu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/contact/contact-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/customer/author.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/customer/customer1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/customer/customer2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/daubep.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/deshes1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/deshes2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/f1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/f3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/logo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/menu/food-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/menu/food1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/menu/food10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/menu/food11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/menu/food12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/menu/food2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/menu/food3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/menu/food4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/menu/food5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/menu/food6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/menu/food7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/menu/food8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/menu/food9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/menu/menu-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/monan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/ourdrink1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/ourdrink2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/ourfood1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/ourfood2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/quote.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/reservation-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/service1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/service2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/service3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/slide01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/slide02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/slide03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/slide1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/slide2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/slide3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/slide4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/table-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/update_food/update1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/update_food/update2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/image/update_food/update3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/1.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/login.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +206,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -154,6 +215,16 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\firstLrv\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\firstLrv\resources" />
+      <recent name="F:\firstLrv\resources\sass" />
+      <recent name="F:\firstLrv\resources\js" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -170,7 +241,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601212177824</updated>
       <workItem from="1601212179034" duration="3307000" />
-      <workItem from="1601262406763" duration="611000" />
+      <workItem from="1601262406763" duration="1965000" />
     </task>
     <servers />
   </component>

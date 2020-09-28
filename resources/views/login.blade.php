@@ -16,16 +16,16 @@
     <link href="https://fonts.googleapis.com/css?family=Crimson+Text&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css?family=Dancing+Script&display=swap" rel="stylesheet" />
-    <script type="text/javascript" src="vendor/bootstrap.js"></script>
-    <script type="text/javascript" src="vendor/isotope.pkgd.min.js"></script>
-    <script type="text/javascript" src="vendor/imagesloaded.pkgd.min.js"></script>
-    <script type="text/javascript" src="1.js"></script>
-    <link rel="stylesheet" href="vendor/bootstrap.css" />
-    <link rel="stylesheet" href="vendor/animate.css" />
-    <link rel="stylesheet" href="vendor/hover.css">
-    <link rel="stylesheet" href="vendor/angular-material.min.css" />
-    <link rel="stylesheet" href="vendor/font-awesome.css" />
-    <link rel="stylesheet" href="1.css" />
+    <script type="text/javascript" src="resources/js/bootstrap.js"></script>
+    <script type="text/javascript" src="resources/js/isotope.pkgd.min.js"></script>
+    <script type="text/javascript" src="resources/js/imagesloaded.pkgd.min.js"></script>
+    <script type="text/javascript" src="resources/js/1.js"></script>
+    <link rel="stylesheet" href="resources/sass/bootstrap.css" />
+    <link rel="stylesheet" href="resources/sass/animate.css" />
+    <link rel="stylesheet" href="resources/sass/hover.css">
+    <link rel="stylesheet" href="resources/sass/angular-material.min.css" />
+    <link rel="stylesheet" href="resources/sass/font-awesome.css" />
+    <link rel="stylesheet" href="resources/sass/1.css" />
 </head>
 
 <body>
@@ -122,15 +122,15 @@
                     </div>
                     <div class="infor-contact">
                         <i class="fa fa-map-marker"></i>
-                        <span>Dormitory A - Ward Linh Trung - District Thử Đức - City TP.HCM</span>
+                        <span>112 - D1 Street - Hiep Phu Ward - District 9 - HCMC</span>
                     </div>
                     <div class="infor-contact">
                         <i class="fa fa-phone"></i>
-                        <span>+84 388 711 977</span>
+                        <span>+84 374 371 101</span>
                     </div>
                     <div class="infor-contact">
                         <i class="fa fa-envelope-o"></i>
-                        <span>ngontranpro@gmail.com</span>
+                        <span>nguyenltng@gmail.com</span>
                     </div>
                 </div>
                 <div class="col-sm-4">
